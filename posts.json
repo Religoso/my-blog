@@ -1,5 +1,13 @@
 [
   {
+    "id": "ai-daily-2026-06-08",
+    "title": "AI Coding 进入自动化时代，具身智能迈过量产门槛",
+    "date": "2026-06-08",
+    "summary": "Claude 编写了 Anthropic 80% 以上生产代码；微软 Build 大会确立 Agent-First 战略；具身智能万台量产里程碑已达成，消费级人形机器人开启预售。",
+    "tags": ["AI", "AI Coding", "具身智能", "简报"],
+    "category": "技术"
+  },
+  {
     "id": "hello-world",
     "title": "Hello World！我的第一篇博客",
     "date": "2026-05-20",
