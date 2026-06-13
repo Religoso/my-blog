@@ -1,5 +1,13 @@
 [
   {
+    "id": "ai-daily-2026-06-13",
+    "title": "国产编程模型开源破局，人形机器人进入万台部署时代",
+    "date": "2026-06-13",
+    "summary": "月之暗面开源Kimi K2.7 Code编程模型，1M上下文+极致性价比；VS Code 1.124 Autopilot默认启用，Agent编程进入全员标配时代；Ramp数据显示Anthropic企业采用首超OpenAI；EngineAI逐际动力申请香港IPO，两部门推动万台人形机器人部署。",
+    "tags": ["AI", "AI Coding", "具身智能", "简报"],
+    "category": "技术"
+  },
+  {
     "id": "ai-daily-2026-06-10",
     "title": "Anthropic发布最强Claude，中联重科携人形机器人入局",
     "date": "2026-06-10",
