@@ -1,5 +1,13 @@
 [
   {
+    "id": "ai-daily-2026-06-19",
+    "title": "AI编程开源破局，具身智能14亿美元融资创纪录",
+    "date": "2026-06-19",
+    "summary": "Poolside开源226B参数编程模型Laguna M.1及终端Agent，以Apache 2.0许可打破供应商锁定；OpenAI Codex开放开源模型接入；Claude Opus 4.7在机器人编程中比人类快18-37倍；NEURA Robotics获亚马逊NVIDIA高通联合14亿美元C轮融资创纪录；越疆科技预告家庭AI人形机器人。",
+    "tags": ["AI", "AI Coding", "具身智能", "简报"],
+    "category": "技术"
+  },
+  {
     "id": "ai-daily-2026-06-17",
     "title": "SpaceX 600亿美元收购Cursor落定，阿里Qwen-Robot定义具身底座",
     "date": "2026-06-17",
