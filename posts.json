@@ -1,5 +1,13 @@
 [
   {
+    "id": "ai-daily-2026-06-20",
+    "title": "波士顿动力全资并入现代，AI Coding转向Agent工程化",
+    "date": "2026-06-20",
+    "summary": "现代汽车3.25亿美元全资收购波士顿动力，计划2028年部署量产Atlas；NVIDIA开源人形机器人自主插拔GPU全套算法；AIEC 2026共识：AI Coding从代码生成转向Agent工程化；Codebase-Memory-MCP将Token消耗降低99%；LARYBench发现通用视觉模型在具身控制上超越专用模型。",
+    "tags": ["AI", "AI Coding", "具身智能", "简报"],
+    "category": "技术"
+  },
+  {
     "id": "ai-daily-2026-06-19",
     "title": "AI编程开源破局，具身智能14亿美元融资创纪录",
     "date": "2026-06-19",
