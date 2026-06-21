@@ -1,5 +1,13 @@
 [
   {
+    "id": "ai-daily-2026-06-21",
+    "title": "GPT-5.6 Pro启动灰度测试，AI人才与知识基础设施双线剧变",
+    "date": "2026-06-21",
+    "summary": "GPT-5.6 Pro开启灰度测试，开发效率从小时级压缩至分钟级；Google Cloud发布OKF开放知识格式终结Agent知识孤岛；GLM-5.2开源登顶SWE-bench Pro超越GPT-5.5；字节跳动SpatialTree入选CVPR 2026；DeepMind双星48小时内同日出走重塑AI人才格局。",
+    "tags": ["AI", "AI Coding", "具身智能", "简报"],
+    "category": "技术"
+  },
+  {
     "id": "ai-daily-2026-06-20",
     "title": "波士顿动力全资并入现代，AI Coding转向Agent工程化",
     "date": "2026-06-20",
