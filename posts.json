@@ -1,5 +1,13 @@
 [
   {
+    "id": "ai-daily-2026-07-04",
+    "title": "美团万亿参数Agent模型亮相，宇树科技104天闯关科创板",
+    "date": "2026-07-04",
+    "summary": "美团发布LongCat-2.0万亿参数模型，首次在五万卡国产集群训练Agentic Coding专用模型；宇树科技IPO注册生效，104天创科创板最快纪录，具身智能第一股诞生；面壁智能ForgeTrain全球首个AI全自动编写预训练框架8小时追平Megatron-LM；全球首例AI Agent自主勒索攻击曝光。",
+    "tags": ["AI", "AI Coding", "具身智能", "简报"],
+    "category": "技术"
+  },
+  {
     "id": "ai-daily-2026-06-22",
     "title": "GPT-5.6 Agent化在即，Figure HELIX重塑具身智能",
     "date": "2026-06-22",
